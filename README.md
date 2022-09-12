@@ -16,7 +16,7 @@ Kendimi geliştirmekteyim , her zaman da kendimi geliştirmeye devam edeceğim!
  <a href="https://open.spotify.com/user/10io98y5vw33zp9hym0zmc9f9" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
     
    
-[![Discord Presence](https://lanyard.cnrad.dev/api/710622150071025704)](https://discord.com/users/710622150071025704)
+[![Discord Presence](https://lanyard.cnrad.dev/api/990974754536165406)](https://discord.com/users/990974754536165406)
 
 
 
