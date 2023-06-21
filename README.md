@@ -1,7 +1,7 @@
 ## Merhaba Github! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 :tada: Tekrardan herkese selam!
-- Kendimden biraz bahsedeyim. Ben [rufflws](https://github.com/rufflws) 22 yaşındayım, öğrenmeye, gelişmeye her zaman aç birisi olmuşumdur. 
+- Kendimden biraz bahsedeyim. Ben [rufflws](https://github.com/rufflws) öğrenmeye, gelişmeye her zaman aç birisi olmuşumdur. 
 4 - 5 yıla yakındır sosyal medya işleriyle uğraşıyorum. Bana bu yolda [stabil](https://github.com/stabil667)'e teşekkürlerimi sunuyorum :slight_smile:
 Kendimi geliştirmekteyim , her zaman da kendimi geliştirmeye devam edeceğim!
 
