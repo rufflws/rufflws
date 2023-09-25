@@ -2,7 +2,7 @@
 
 :tada: Tekrardan herkese selam!
 - Kendimden biraz bahsedeyim. Ben [rufflws](https://github.com/rufflws) öğrenmeye, gelişmeye her zaman aç birisi olmuşumdur. 
-4 - 5 yıla yakındır sosyal medya işleriyle uğraşıyorum. Bana bu yolda [stabil](https://github.com/stabil667)'e teşekkürlerimi sunuyorum :slight_smile:
+4 - 5 yıla yakındır sosyal medya işleriyle uğraşıyorum. Bana bu yolda [stabil](https://github.com/stabil667)'e teşekkürlerimi sunuyorum 
 Kendimi geliştirmekteyim , her zaman da kendimi geliştirmeye devam edeceğim!
 
 
